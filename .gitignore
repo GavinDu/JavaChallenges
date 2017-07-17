@@ -1,3 +1,6 @@
 .idea/
 META-INF/
 target/
+
+# Any resouces files.
+*.data
